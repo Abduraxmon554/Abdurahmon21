@@ -1,0 +1,114 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+
+
+main div {
+    display: flex;
+    align-items: center;
+}
+
+main {
+    width: 650px;
+    height: 686px;
+    margin: auto;
+    border: 3px solid gray;
+
+}
+
+.e {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #F0400F;
+}
+
+
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+.g {
+    width: 300px;
+    height: 30px;
+    background-color: rgb(177, 177, 177);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.btn1 {
+    width: 140px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 10px;
+
+}
+
+.btn2 {
+    width: 140px;
+    height: 25px;
+    background: none;
+    border: none;
+}
+
+input {
+    width: 343px;
+    height: 30px;
+    text-wrap: wrap;
+}
+
+
+
+.te {
+    text-align: center;
+    margin-top: 70px;
+    color: rgb(60, 60, 60);
+}
+
+
+button {
+    width: 202px;
+    height: 57px;
+    background-color: #F69E86;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    margin-left: 400px;
+
+}
